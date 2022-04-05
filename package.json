@@ -1,0 +1,22 @@
+{
+  "name": "typescript-training",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zettacamp-virgiawan-kusuma/typescript-training.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zettacamp-virgiawan-kusuma/typescript-training/issues"
+  },
+  "homepage": "https://github.com/zettacamp-virgiawan-kusuma/typescript-training#readme"
+}
